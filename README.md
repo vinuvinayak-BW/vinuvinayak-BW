@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="Banner" width="100%">
+<img src="banner-image-github.jpg" alt="Banner" width="100%">
 
 <h1 align="center">Hi, ADHITHYA VINAYAK 👋</h1>
 
