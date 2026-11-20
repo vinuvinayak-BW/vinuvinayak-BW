@@ -15,7 +15,7 @@
 
 ### 🔧 What I work on
 - Building projects and learning in public
-- Studying ethical hackiNG
+- Studying ethical hacking
 -  Studying arduino basics
 
 ### 🧰 Tools I use
